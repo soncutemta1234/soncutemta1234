@@ -1,1 +1,7 @@
+Microsoft Windows [Version 10.0.19045.3803]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\NguyenNgocSon\source\repos\MalwareByPassTest\MalwareByPassTest\bin\Release>cmd /k 
+C:\Users\NguyenNgocSon\source\repos\MalwareByPassTest\MalwareByPassTest\bin\Release>
+C:\Users\NguyenNgocSon\source\repos\MalwareByPassTest\MalwareByPassTest\bin\Release>
+C:\Users\NguyenNgocSon\source\repos\MalwareByPassTest\MalwareByPassTest\bin\Release>
