@@ -1,7 +1,16 @@
 Microsoft Windows [Version 10.0.19045.3803]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\NguyenNgocSon\source\repos\MalwareByPassTest\MalwareByPassTest\bin\Release>cmd /k 
+C:\Users\NguyenNgocSon\source\repos\MalwareByPassTest\MalwareByPassTest\bin\Release>cmd /k net user
+
+User accounts for \\DESKTOP-DG60PIK
+
+-------------------------------------------------------------------------------
+admin                    Administrator            DefaultAccount           
+Guest                    NguyenNgocSon            WDAGUtilityAccount       
+The command completed successfully.
+
+
 C:\Users\NguyenNgocSon\source\repos\MalwareByPassTest\MalwareByPassTest\bin\Release>
 C:\Users\NguyenNgocSon\source\repos\MalwareByPassTest\MalwareByPassTest\bin\Release>
 C:\Users\NguyenNgocSon\source\repos\MalwareByPassTest\MalwareByPassTest\bin\Release>
